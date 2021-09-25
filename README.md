@@ -1,2 +1,7 @@
 # MeCraft
-Simple Minecraft-inspired program using Python and Pyglet
+Simple Minecraft-like program using Python and Pyglet. Could be a tutorial project for learning python on 3D game development. The original idea is coming from [@fogleman/Minecraft](https://github.com/fogleman/Minecraft).
+
+# Install Pyglet
+```shell
+pip install pyglet
+```
